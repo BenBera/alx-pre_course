@@ -1,3 +1,2 @@
-# alx-pre_course
-#Editing from the server now 
+# alx-pre_course 
 
